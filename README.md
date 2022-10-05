@@ -1,12 +1,12 @@
 # BADCamp 2022 - Decoupling Drupal using GraphQL & Gatsby: A Crash Course
 
-## 0 - Prerequisites:
+## 0 - Prerequisites
 Your computer should be ready for Gatsby v4 and have installed:
-- Node
-- Yarn, 
-- Git 
+- Node (v16.x)
+- Yarn (v1.22.x)
+- NPM (8.x)
+- Git
 - Gatsby-CLI
-
 
 ## 1 - Get the code on your local machine
 
